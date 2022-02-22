@@ -1,8 +1,5 @@
 # Saichakra-Profile
-<p align="center">
-  <img src="" width="350" title="hover text">
- 
-</p>
+
 <h1 align="center">Hi 👋, I'm Saichakra</h1>
 <h3 align="center">A passionate frontend developer from India and an aspirant Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
